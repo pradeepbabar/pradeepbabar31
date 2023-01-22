@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - `🔭` I’m currently working as Network Security Engineer
 - `👀` I’m interested in Network Automation/Security
 - `🌱` I’m currently learning Automation...
-- `📫` How to reach me:https://www.linkedin.com/in/pradeepbabar
+- `📫` How to reach me: https://www.linkedin.com/in/pradeepbabar
