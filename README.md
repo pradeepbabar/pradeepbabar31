@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-
-Hi there 👋
-
 🔭 I’m currently working as Site Reliability Engineer with a keen interest in DevOps methodologies.
 👀 I’m interested in Contributing to open source projects.
 
