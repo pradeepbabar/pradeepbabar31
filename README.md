@@ -6,7 +6,22 @@
 Here are some ideas to get you started:
 -->
 
-- `🔭` I’m currently working as Network Security Operation Engineer / Site Reliability Engineers (SRE).
-- `👀` I’m interested in Network Automation/Security
-- `🌱` I’m currently learning Automation...
-- `📫` How to reach me: https://www.linkedin.com/in/pradeepbabar
+Hi there 👋
+
+🔭 I’m currently working as Site Reliability Engineer with a keen interest in DevOps methodologies.
+👀 I’m interested in Contributing to open source projects.
+
+🛠️ Tech Stack
+- `Cloud Platforms:` AWS, Azure
+- `Automation Tools:` Ansible
+- `Monitoring Tools:` Grafana, Zabbix
+- `Scripting Languages:` Python, Bash
+
+📚 Learning
+I'm always learning and keeping up to date with new technologies and best practices. Currently, I'm focused on:
+
+Container Orchestration with Kubernetes
+Infrastructure as Code with Terraform
+
+🤝 Let's Connect
+Feel free to connect with me on LinkedIn https://www.linkedin.com/in/pradeepbabar to discuss any potential opportunities or to collaborate on a project.
