@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 📚 Learning
 I'm always learning and keeping up to date with new technologies and best practices. Currently, I'm focused on:
 
-Container Orchestration with Kubernetes
-Infrastructure as Code with Terraform
+- `Container Orchestration with Kubernetes`
+- `Infrastructure as Code with Terraform`
 
 🤝 Let's Connect
 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/pradeepbabar to discuss any potential opportunities or to collaborate on a project.
