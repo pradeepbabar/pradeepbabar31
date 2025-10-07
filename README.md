@@ -5,20 +5,73 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working as Site Reliability Engineer with a keen interest in DevOps methodologies.
-👀 I’m interested in Contributing to open source projects.
 
-🛠️ Tech Stack
-- `Cloud Platforms:` AWS, Azure
-- `Automation Tools:` Ansible
-- `Monitoring Tools:` Grafana, Zabbix
-- `Scripting Languages:` Python, Bash
 
-📚 Learning
-I'm always learning and keeping up to date with new technologies and best practices. Currently, I'm focused on:
+# 👋 Hi, I'm Pradeep Babar
 
-- `Container Orchestration with Kubernetes`
-- `Infrastructure as Code with Terraform`
+🚀 **NetDevOps | Automation Engineer | Infrastructure & Cloud Enthusiast**
+Automating, optimizing, and securing networks through modern DevOps practices. Passionate about bridging the gap between traditional networking and cloud-native infrastructure.
 
-🤝 Let's Connect
-Feel free to connect with me on LinkedIn https://www.linkedin.com/in/pradeepbabar to discuss any potential opportunities or to collaborate on a project.
+---
+
+## 🧠 About Me
+
+* 🌐 Experienced in **Network Automation, Infrastructure Management, and Cloud Platforms**
+* ⚙️ Skilled in automating workflows using **Python, Ansible, and Terraform**
+* 🔥 Hands-on with Devices like **Cisco routers/switches/firewalls** and **Palo Alto firewalls**
+* 🧩 Advocating **CI/CD pipelines** using **GitLab & Docker**
+* 🔍 Exploring **Wireshark, and Cybersecurity integrations** 
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, Bash (Basic level)
+**Automation & IaC:** Ansible, Terraform, GitLab CI/CD
+**Containers & Orchestration:** Docker, Kubernetes (Good Understanding)
+**Cloud:** AWS, Azure
+**Monitoring & Security:** Prometheus, Grafana, Wireshark
+**OS:** Linux (RHEL, Ubuntu), Windows 
+
+---
+
+## 💡 What I Do
+
+* 🛠️ Build end-to-end **network automation solutions** for configuration and compliance
+* 🚀 Implement **Infrastructure as Code (IaC)** for consistent, scalable environments
+* 🔐 Strengthen **infrastructure security** with automated policy management
+* 🔄 Design **CI/CD pipelines** for reliable deployments and toolchain automation
+* ☁️ Manage hybrid cloud environments and containerized applications
+
+---
+
+## 📂 Featured Projects
+
+| Project                      | Description                                                                 | Tech                      |
+| ---------------------------- | --------------------------------------------------------------------------- | ------------------------- |
+| **Network-Automation-Suite** | Automated configuration backup and validation for Cisco & Palo Alto devices | Python, Netmiko, Ansible  |
+| **Infra-as-Code-Lab**        | Provisioned multi-cloud infrastructure using Terraform & GitLab CI/CD       | Terraform, AWS, Azure     |
+| **Firewall-Policy-Audit**    | Automated Palo Alto policy compliance checks and reporting                  | Python, REST API          |
+| **K8s-Network-Monitor**      | Kubernetes-integrated network visibility dashboard                          | Kubernetes, Grafana, eBPF |
+
+*(Replace with your actual repo links when available)*
+
+---
+
+## 📈 GitHub Stats
+
+![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradeepBabar\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepBabar\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 [LinkedIn](#)
+* 🧑‍💻 [GitHub](https://github.com/PradeepBabar)
+* ✉️ [pradeep.babar@example.com](mailto:pradeep.babar@example.com)
+
+---
+
+⭐ **“Automate intelligently, deploy reliably, and secure continuously.”**
+
