@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Pradeep Babar
+# 👋 Hi, I'm Pradeep
 
 🚀 **NetDevOps | Automation Engineer | Infrastructure & Cloud Enthusiast**
 Automating, optimizing, and securing networks through modern DevOps practices. Passionate about bridging the gap between traditional networking and cloud-native infrastructure.
@@ -52,9 +52,7 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 | **Network-Automation-Suite** | Automated configuration backup and validation for Cisco & Palo Alto devices | Python, Netmiko, Ansible  |
 | **Infra-as-Code-Lab**        | Provisioned multi-cloud infrastructure using Terraform & GitLab CI/CD       | Terraform, AWS, Azure     |
 | **Firewall-Policy-Audit**    | Automated Palo Alto policy compliance checks and reporting                  | Python, REST API          |
-| **K8s-Network-Monitor**      | Kubernetes-integrated network visibility dashboard                          | Kubernetes, Grafana, eBPF |
 
-*(Replace with your actual repo links when available)*
 
 ---
 
@@ -68,8 +66,7 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 ## 📫 Let’s Connect
 
 * 💼 [LinkedIn](#)
-* 🧑‍💻 [GitHub](https://github.com/PradeepBabar)
-* ✉️ [pradeep.babar@example.com](mailto:pradeep.babar@example.com)
+* 🧑‍💻 [GitHub](https://github.com/pradeepbabar)
 
 ---
 
