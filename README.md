@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pradeepbabar31/pradeepbabar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Pradeep
+# Hi there 👋, I'm Pradeep
 
 🚀 **NetDevOps | Automation Engineer | Infrastructure & Cloud Enthusiast**
 Automating, optimizing, and securing networks through modern DevOps practices. Passionate about bridging the gap between traditional networking and cloud-native infrastructure.
