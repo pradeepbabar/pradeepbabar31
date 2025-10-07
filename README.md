@@ -64,8 +64,10 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarika%20Babar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepbabar/)  
-[![GitHub](https://img.shields.io/badge/GitHub-smohite9-black?logo=github&logoColor=white)](https://github.com/pradeepbabar)  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepbabar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/pradeepbabar)
+
  
 ---
 
