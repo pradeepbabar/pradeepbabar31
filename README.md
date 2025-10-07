@@ -3,8 +3,6 @@
 
 Here are some ideas to get you started:
 -->
-
-
 # Hi there 👋, I'm Pradeep
 
 🚀 **NetDevOps | Automation Engineer | Infrastructure & Cloud Enthusiast**
@@ -64,7 +62,7 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 
 ## 📫 Let’s Connect
 
-* 💼 [LinkedIn](#)
+* 💼 [LinkedIn](https://www.linkedin.com/in/pradeepbabar/)
 * 🧑‍💻 [GitHub](https://github.com/pradeepbabar)
 
 ---
