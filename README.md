@@ -59,6 +59,7 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 ## 📈 GitHub Stats
 
 ![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradeepBabar\&show_icons=true\&theme=tokyonight)
+\n
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepBabar\&layout=compact\&theme=tokyonight)
 
 ---
@@ -70,5 +71,4 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
 
 ---
 
-⭐ **“Automate intelligently, deploy reliably, and secure continuously.”**
 
