@@ -58,13 +58,15 @@ Automating, optimizing, and securing networks through modern DevOps practices. P
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepBabar\&layout=compact\&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=pradeepbabar&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 📫 Let’s Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pradeepbabar/)
-* 🧑‍💻 [GitHub](https://github.com/pradeepbabar)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarika%20Babar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepbabar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-smohite9-black?logo=github&logoColor=white)](https://github.com/pradeepbabar)  
+ 
 ---
 
 
